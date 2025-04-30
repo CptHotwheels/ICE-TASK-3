@@ -83,4 +83,6 @@ class MainActivity : AppCompatActivity()
         const val NOUGHT = "O"
         const val CROSS = "X"
     }
+    //Creator: Coding with Cal 
+    //URL: https://www.youtube.com/watch?v=POFvcoRo3Vw&t=120s
 }
